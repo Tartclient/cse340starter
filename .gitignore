@@ -18,3 +18,6 @@ node_modules
 #The readme file is not required, but can be helpful.
 #In this case, it contains a brief overview of how to make use of these starter files and folders.
 README.md
+
+#vscode sql url
+.vscode
